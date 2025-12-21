@@ -4,7 +4,7 @@
 
 ## 🎓 Formação & Hobby
 Além dos meus estudos principais, dedico parte do meu tempo livre praticando HTML e CSS. 
-Encaro o desenvolvimento web como um hobby e adquire minhas habilidades através do 
+Encaro o desenvolvimento web como um hobby e adquiri minhas habilidades através do 
 curso de **HTML5 e CSS3 do Curso em Vídeo**. <br> Sou **Técnica em Informática pelo IFPI**.
 
 <div align="center">
