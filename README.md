@@ -1,4 +1,4 @@
-# Olá, Mundo! Eu sou a Nicolly Bispo </>
+# Olá, Mundo! Eu sou a Nicolly Bispo
  
 ### 📖✨ Estudante e Entusiasta de Tecnologia
 
