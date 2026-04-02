@@ -1,15 +1,12 @@
-# Olá, Mundo! Eu sou a Nicolly Bispo
+# Hello World! I'm Nicolly Bispo
  
-### 📖✨ Estudante e Entusiasta de Tecnologia
+### 📖✨ Tech Student & Enthusiast
 
-## 🎓 Formação & Hobby
-Além dos meus estudos principais, dedico parte do meu tempo livre praticando HTML e CSS. 
-Encaro o desenvolvimento web como um hobby e adquiri minhas habilidades através do 
-curso de **HTML5 e CSS3 do Curso em Vídeo**. <br> Sou **Técnica em Informática pelo IFPI**.
+## 🎓 Education & Hobbies
+### In addition to my main studies, I spend my free time practicing **HTML and CSS**. I view web development as a hobby and gained my skills through the **HTML5 and CSS3 course** by Curso em Vídeo. 
+I am an **Information Technology Technician** from **IFPI**.
 
-###
-
-## ⚒️ Ferramentas e Tecnologias
+## ⚒️ Tools and Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
   &nbsp;&nbsp;
