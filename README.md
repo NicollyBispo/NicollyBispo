@@ -1,4 +1,4 @@
-# Hello World! I'm Nicolly Bispo
+# Hello, World! I'm Nicolly Bispo
  
 ### 📖✨ Tech Student & Enthusiast
 
